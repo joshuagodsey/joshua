@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>The Woodnote</h1>
+<p>I’m coding my blog using GitHub.</p>
+</body>Hey, check it out, this is coded by me! 
+</html>
